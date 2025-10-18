@@ -1,0 +1,25 @@
+{
+    "name": "com.mgs.speech",
+    "version": "1.0.0",
+    "displayName": "Speech",
+    "description": "Speech recognize on Windows platform.",
+    "unity": "2021.3",
+    "keywords": [
+        "speech",
+        "recognize",
+        "keyword",
+        "dictation"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://github.com/mogoson"
+    },
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "Sample for speech recognize on Windows platform.",
+            "path": "Samples~/Sample"
+        }
+    ]
+}

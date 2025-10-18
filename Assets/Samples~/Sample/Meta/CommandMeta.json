@@ -1,0 +1,14 @@
+[
+	{
+		"command":"Hello",
+		"keywords":["Hello","你好","嗨"]
+	},
+	{
+		"command":"StartRotate",
+		"keywords":["Start Rotate","开始旋转"]
+	},
+	{
+		"command":"StopRotate",
+		"keywords":["Stop Rotate","停止旋转"]
+	}
+]
