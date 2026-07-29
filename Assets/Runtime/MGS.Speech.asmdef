@@ -1,3 +1,14 @@
 {
-	"name": "MGS.Speech"
+    "name": "MGS.Speech",
+    "rootNamespace": "MGS.Speech",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

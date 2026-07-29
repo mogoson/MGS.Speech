@@ -1,8 +1,8 @@
 {
     "name": "MGS.Speech.Sample",
-    "rootNamespace": "",
+    "rootNamespace": "MGS.Speech.Sample",
     "references": [
-        "MGS.Speech"
+        "GUID:20750d6db40f8f24d87eb67c20357ab3"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
